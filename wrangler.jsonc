@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "portfolio",
+  "account_id": "f78982118a9a152e8a71c8cee9c2241a",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./dist",
